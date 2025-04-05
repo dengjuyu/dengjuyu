@@ -27,6 +27,8 @@
 [![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=gmail&logoColor=white)](mailto:dbwngus81@gmail.com)
 [![Naver](https://img.shields.io/badge/Naver-03C75A?style=flat&logo=naver&logoColor=white)](mailto:dbwngus08@naver.com)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dengjuyu&layout=compact&theme=tokyonight)
+
 
 
 
